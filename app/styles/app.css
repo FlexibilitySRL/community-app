@@ -474,7 +474,8 @@ tr.pointer-main:hover {
 }
 
 .activate {
-    color: darkgrey !important;
+    color: white !important;
+    background-color: #5A5A5A;
 }
 
 div[data-angular-treeview] {
